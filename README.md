@@ -2,11 +2,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tomii070&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
-- 👀 I’m interested in electronics and cars
-- 🌱 I’m currently learning 3d modeling, mechanics and programming
-- 💞️ I’m looking to collaborate on interesting projects, and communism
-- 📫 How to reach me via pigeon or instagram | _.tomii.07
-- ⚡ Fun fact: I dont know shit, about to much things to be true <3
+  - 👀 I’m interested in electronics and cars
+  - 🌱 I’m currently learning 3d modeling, mechanics and programming
+  - 💞️ I’m looking to collaborate on interesting projects, and communism
+  - 📫 How to reach me via pigeon or instagram | _.tomii.07
+  - ⚡ Fun fact: I dont know shit, about to much things to be true <3
 
 <!---
 tomii070/tomii070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
