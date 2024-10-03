@@ -1,4 +1,4 @@
-<h1 align="left">☠️ Hello My Niggas!! I’m Tomii</h1>
+<h1 align="left">☠️ Hello Unhappy JAVA junkies!! I’m 𝖙𝖔𝖒𝖎𝖎</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tomii070&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
