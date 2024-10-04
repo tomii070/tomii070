@@ -1,5 +1,5 @@
 <h1 align="left">Hello Unhappy JAVA Junkies!! I’m 𝕿𝖔𝖒𝖎𝖎</h1>
-<h22 align="left">If you're offended, that's not my problem, our intention.</h1>
+<h22 align="left">If you're offended, that's not my problem, or intention.</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tomii070&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
