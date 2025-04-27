@@ -6,7 +6,7 @@
   - 👀 I’m interested in electronics and cars
   - 🌱 I’m currently learning 3d modeling, mechanics and programming
   - 💞️ I’m looking to collaborate on interesting projects, and communism
-  - 📫 How to reach me via pigeon or instagram | _.tomii.07
+  - 📫 You can reach me via pigeon or instagram | _.tomii.07
   - ⚡ Fun fact: I dont know shit, about to much things to be true :3
 
 <!---
